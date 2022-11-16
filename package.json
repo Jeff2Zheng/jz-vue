@@ -10,6 +10,7 @@
   "dependencies": {
     "@babel/core": "^7.19.6",
     "@babel/preset-env": "^7.19.4",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "axios": "^0.19.1",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "core-js": "^3.4.4",
@@ -36,5 +37,18 @@
     "less-loader": "^5.0.0",
     "vue-cli-plugin-element": "^1.0.1",
     "vue-template-compiler": "^2.6.10"
-  }
+  },
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Jeff2Zheng/jz-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeff2Zheng/jz-vue/issues"
+  },
+  "homepage": "https://github.com/Jeff2Zheng/jz-vue#readme",
+  "description": ""
 }
